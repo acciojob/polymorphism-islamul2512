@@ -1,7 +1,7 @@
 package com.driver;
 
 public class Main {
-    static class Product {
+    public static class Product {
         // Task 3: Create a method to multiply two integers
         public int product(int x, int y) {
             return x * y;
